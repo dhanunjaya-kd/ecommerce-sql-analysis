@@ -70,5 +70,35 @@ Key Business Metrics
 
 - Total Revenue: ₹13.59 Million
 - Total Orders: 99,441
-- Total Customers: 99,441
+- Total Customers: 96K+
 - Average Order Value: ₹137.75
+
+  ## Project Workflow
+
+CSV Dataset
+    ↓
+PostgreSQL Database
+    ↓
+Data Cleaning & SQL Analysis
+    ↓
+KPI Calculations
+    ↓
+Business Insights
+
+
+## Project Screenshots
+
+### Database Schema
+![Database Schema](Screenshots/01_Database_Model.png)
+
+### Revenue Analysis
+![Revenue Analysis](Screenshots/02_Revenue_Analysis.png)
+
+### Customer Analysis
+![Customer Analysis](Screenshots/03_Customer_Analysis.png)
+
+### Payment Analysis
+![Payment Analysis](Screenshots/04_Payment_Analysis.png)
+
+### Product Analysis
+![Product Analysis](Screenshots/05_Product_Analysis.png)
